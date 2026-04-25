@@ -1,0 +1,11 @@
+{
+  "name": "Software Engineering CBT (SEN 201)",
+  "description": "A comprehensive Computer Based Test application covering Dr. Emmanuel C. Nwangwu's Software Engineering course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Interactive Quiz Engine",
+    "Real-time Timer",
+    "Automated Scoring",
+    "Detailed Result Review"
+  ]
+}
